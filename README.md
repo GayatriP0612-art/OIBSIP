@@ -5,8 +5,9 @@ IN THIS REPOSITORY IT INCLUDES THE TASKS COMPLETED IN OVERALL INTERNSHIP.
 1. PROG LANG USED IS PYTHON.
 2. IDE USED :- PYCHARM
 
-TASKS THAT ARE COMPLETED UNDER THIS REPOSITORY ARE (THE NAME OF THE FILE INCLUDED) AS WELL AS THE FEATURES OF IT:
-**TASK NO 1:-VOICE ASSISTANT**:- (assistant.py)
+TASKS THAT ARE COMPLETED UNDER THIS REPOSITORY ARE AS WELL AS THE FEATURES OF IT:
+
+**TASK NO 1:-VOICE ASSISTANT**:- 
 
 **📝 Features of the Voice Assistant Code**:-
 **Speech Output (TTS)**
@@ -56,7 +57,7 @@ Exit Command: Stops assistant when user says "exit", "stop", or "bye".
 If command is not recognized, assistant says it doesn’t know how to help yet.
    
 
-**TASK NO 2:-BMI CALCULATOR:- (2.py)**
+**TASK NO 2:-BMI CALCULATOR:- **
 
 **BMI Calculation**
 Takes weight (kg) and height (cm) as input.
@@ -118,7 +119,7 @@ Displays info messages when history is empty.
 Includes a “Clear History” button to delete the CSV file.   
 
 
-**TASK NO 3:- RANDOM PASSWORD GENERATOR:- (3.py)**
+**TASK NO 3:- RANDOM PASSWORD GENERATOR:- **
 
 **📝 Features**
 
@@ -178,7 +179,7 @@ Result displayed in a label with wrapping for readability.
 
 Fixed window size (400x450) for consistency.
 
-**TASK NO 4:- BASIC WEATHER APP:- (4.py)**
+**TASK NO 4:- BASIC WEATHER APP:- **
 
 **📝 Features**
 
@@ -228,7 +229,7 @@ Organized sections for current weather, hourly forecast, and daily forecast.
 
 Fixed window size (420x620) for consistency.
 
-**TASK NO 5:- CHAT APPLICATION:- (server.py,client.py)**
+**TASK NO 5:- CHAT APPLICATION:- **
 
 **📝 Features**
 **🔹 Server-Side**
